@@ -112,9 +112,12 @@ Hey I'm Parth, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech En
 </h1>
 
 
+<div align = "center">
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
+
+</div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
