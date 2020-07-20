@@ -8,8 +8,6 @@
 
 Hey I'm Parth, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 
 ## Coding Profiles
 
