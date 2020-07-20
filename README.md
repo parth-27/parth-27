@@ -1,4 +1,5 @@
-## Hey <img src="./Hi.gif" width="30px">, I'm [Parth!](https://github.com/parth-27)  !!
+## Hey <img src="./Hi.gif" width="30px">, I'm [Parth!](https://github.com/parth-27) !!
+
 </h2>
 
 <hr/>
@@ -7,8 +8,8 @@
 
 Hey I'm Parth, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
-
 ## Coding Profiles
+
 <a href="https://www.codechef.com/users/night_king_">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
@@ -87,30 +88,41 @@ Hey I'm Parth, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech En
 <h1 align="center">
 ✨ Where you can find me ✨
   
-  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin">
+  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+
+  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+
+  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+
+  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+
+  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/parth-27">
-    <img src="https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github">  
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
 
 
-<br/>
+  <br/>
   <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook">  
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
  
   <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
 
-<a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter">
-
-
+  <a href="https://twitter.com/parthpatel_27">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
 </h1>
-
 
 <div align = "center">
 
