@@ -4,6 +4,13 @@
 
 <hr/>
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
+
+<h1 class = "animate__animated animate__zoomIn">Hello I am Parth Patel!</h1>
+
 ## About Me
 
 Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
