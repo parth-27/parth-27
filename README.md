@@ -1,15 +1,16 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Parth!](https://github.com/parth-27) !!
-
-</h2>
-
-<hr/>
 
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
-  />
+/>
 
-<h1 class = "animate__animated animate__zoomIn">Hello I am Parth Patel!</h1>
+<h2 class = "animate__animated animate__zoomIn" >
+
+Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Parth !!
+
+</h2>
+
+<hr/>
 
 ## About Me
 
