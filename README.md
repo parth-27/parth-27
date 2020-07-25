@@ -29,7 +29,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+## <strong>My Tech Stack</strong>
 
 <table>
   <tbody>
