@@ -59,9 +59,9 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        <span><strong>Firebase</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
