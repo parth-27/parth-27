@@ -47,6 +47,10 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
+<a href="https://redux.js.org/">
+<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+</a>
+
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
