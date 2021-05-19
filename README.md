@@ -69,6 +69,10 @@ Hey, My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </a>
 
+<a href="https://www.java.com/en/">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </a>
@@ -99,10 +103,6 @@ Hey, My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.
 
 <a href="https://www.markdownguide.org/">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</a>
-
-<a href="https://www.java.com/en/">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <hr>
 
