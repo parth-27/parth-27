@@ -14,7 +14,7 @@ Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif"
 
 ## About Me
 
-Hey, My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is Parth Patel, I'm a final year ICT student at Ahmedabad University. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 
 <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
 
