@@ -121,7 +121,7 @@ Hey, My Name is Parth Patel, I'm a final year ICT student at Ahmedabad Universit
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/parth-patel-1020/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
