@@ -135,11 +135,11 @@ Hey, My Name is Parth Patel, I'm a final year ICT student at Ahmedabad Universit
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/fastest_thread/">
+  <a href="https://www.instagram.com/_p4r7h/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/fastest_thread">
+  <a href="https://twitter.com/_p4r7h">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
